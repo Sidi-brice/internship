@@ -1,0 +1,85 @@
+<div class="page">
+		<div class="video" style="width:1440px; height:700px;" >
+		<video width="700" height="500" controls autoplay loop>
+			<source src="IMAGES/video.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+		</div>
+		<h2 style="margin:10px; color:yellow; font-size:50px"><center> Shop Popular categories</center></h2>
+		<div class="section_1">
+			<ul id="shoe" >
+				<figure>
+				<div style="display:inline-block; margin-right:5px">
+				<img src="IMAGES/pic1.jpg" height="160px" width="150px">
+						<figcaption><center><span style=" font-size:20px">Nike 2005<br>2000CFA<br><button id="cart_1" title="Add to Cart"><a>add to cart</span></a></button></center></figcaption></div>
+					<div style="display:inline-block; margin-left:65px;" ><img src="IMAGES/shoe8.jpg" height="160px" width="134px">
+						<figcaption><center><span style=" font-size:20px">Nike 2005<br>2000CFA<br><button id="cart_2" title="Add to Cart"><a>add to cart</span></a></button></center><figcaption></div>
+					 <div style="display:inline-block; margin-left:65px;"><img src="IMAGES/shoe10.jpg" height="120px" width="144px">
+						<figcaption><center><span style=" font-size:20px">Nike 2005<br>2000CFA<br><button id="cart_3" title="Add to Cart"><a>add to cart</span></a></button></center><figcaption></div>
+					<div style="display:inline-block; margin-left:65px;"><img src="IMAGES/shoe7.jpg" height="160px" width="150px">
+						<figcaption><center><span style=" font-size:20px">Nike 2005<br>2000CFA<br><button id="cart_4" title="Add to Cart"><a>add to cart</span></a></button></center><figcaption></div>
+					<div style="display:inline-block; margin-left:65px;"><img src="IMAGES/shoe4.jpg" height="160px" width="150px">
+						<figcaption><center><span style=" font-size:20px">Nike 2005<br>2000CFA<br><button id="cart_5" title="Add to Cart"><a>add to cart</span></a></button></center><figcaption></div>
+				<div style="display:inline-block; margin-left:65px;"><img src="IMAGES/shoe6.jpg" height="160px" width="150px">
+						<figcaption><center><span style=" font-size:20px">Nike 2005<br>2000CFA<br><button id="cart_6" title="Add to Cart"><a>add to cart</span></a></button></center><figcaption></div>
+				</figure>
+			</ul>
+		</div>
+		<h2 style="margin:10px; color:yellow; font-size:50px"><center> Concert Looks You'll all love<center></h2>
+		<div class="section_2">
+			<ul id="style_1">
+				<figure>
+					<div style="display:inline-block; margin-right:10px;"><img src="IMAGES/post1.jpg" width="600px">
+					<figcaption><center><span style="color:white; font-size:20px">Happy Hippy<br>25000CFA<br><button id="cart_7" title="Add to Cart"><a>add to cart</span></a></button></center></figcaption></div>
+					<div style="display:inline-block; margin-left:10px;"><img src="IMAGES/post2.jpg" width="600px">
+					<figcaption><center><span style="color:white; font-size:20px">Desert Rider<br>30000CFA<br><button id="cart_8" title="Add to Cart"><a>add to cart</span></a></button></center></figcaption></div>
+				</figure>
+			</ul>
+			
+		</div>
+			<h2 style="margin:20px; color:yellow; font-size:50px; margin-top:20px;"><center> Sandals</center></h2>
+		<div class="section_3">
+			<ul id="sandals1">
+			<div>
+				<figure>
+					<div style="display:inline-block; margin-right:3px"><img src="IMAGES/sandal1.jpg" >
+						<figcaption><center><span style="font-size:20px">Nike 2005<br>2000CFA<br><button id="cart_a" title="Add to Cart"><a>add to cart</span></a></button></center><figcaption></div>
+					<div style="display:inline-block; margin-left:70px;"><img src="IMAGES/sandal2.jpg" >
+						<figcaption><center><span style="font-size:20px">Nike 2005<br>2000CFA<br><button id="cart_b" title="Add to Cart"><a>add to cart</span></a></button></center><figcaption></div>
+					<div style="display:inline-block; margin-left:70px;"><img src="IMAGES/sandal3.jpg" >
+						<figcaption><center><span style="font-size:20px">Nike 2005<br>2000CFA<br><button id="cart_c" title="Add to Cart"><a>add to cart</span></a></button></center><figcaption></div>
+					<div style="display:inline-block; margin-left:70px;"><img src="IMAGES/sandal4.jpg" >
+						<figcaption><center><span style="font-size:20px">Nike 2005<br>2000CFA<br><button id="cart_d" title="Add to Cart"><a>add to cart</span></a></button></center><figcaption></div>
+			</div>
+				</figure>
+			<div style="margin-top:10px">
+					<figure>
+						<div style="display:inline-block; margin-right:3px"><img src="IMAGES/sandal5.jpg" >
+						<figcaption><center><span style="font-size:20px">Nike 2005<br>2000CFA<br><button id="cart_e" title="Add to Cart"><a>add to cart</span></a></button></center><figcaption></div>
+						
+						<div style="display:inline-block; margin-left:70px;"><img src="IMAGES/sandal6.jpg" >
+						<figcaption><center><span style="font-size:20px">Nike 2005<br>2000CFA<br><button id="cart_f" title="Add to Cart"><a>add to cart</span></a></button></center><figcaption></div>
+							
+						<div style="display:inline-block; margin-left:70px;"><img src="IMAGES/sandal7.jpg" >
+						<figcaption><center><span style="font-size:20px">Nike 2005<br>2000CFA<br><button id="cart_g" title="Add to Cart"><a>add to cart</span></a></button></center><figcaption></div>
+					
+						<div style="display:inline-block; margin-left:70px;"><img src="IMAGES/sandal9.jpg" >
+						<figcaption><center><span style="font-size:20px; ">Nike 2005<br>2000CFA<br><button id="cart_h" title="Add to Cart"><a>add to cart</span></a></button></center><figcaption></div>
+			</div>
+				</figure>
+			</ul>
+			</div>
+			<button id="top" title="back to top" style="margin-left:600px; margin:10px; padding:5px;"><img src="IMAGES/images.JPG" style="width:35px" ></button>
+			
+	</div>
+	</body>
+	<footer>
+		<div class="footer">
+			<ul>
+				<img src="IMAGES/logo.png" style="width:35px;" type="logo" id="logo">
+				<p><span style="font-size:20px"><b>Contact us:</span></b><br> sebshopping52@gmail.com</p>
+			</ul>
+			</div>
+		</div>
+	</footer>
+</html>
