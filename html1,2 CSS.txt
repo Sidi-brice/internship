@@ -1,0 +1,87 @@
+*
+{
+	padding:0px;
+	margin:0px;
+
+}
+.logo
+{
+	padding: 15px;
+}
+.intro
+{
+	background-color: blue;
+	padding: 8px;
+	font-size: 20px;
+}
+.navbar
+{
+	margin-top: 10px;
+	padding:0px;
+	display:inline;
+}
+.my_cart
+{
+	position:right;
+	margin-top:10px;
+}
+.page
+{
+	background-image: url(../IMAGES/fav.jpg);
+	background-attachment:fixed;
+	background-position: center;
+	background-repeat:none;
+	background-size:cover;
+}
+.video
+{
+	pause:none;
+	play-during:loop;
+	padding-left:350px;
+	padding-top: 30px;
+}
+.section_1
+{
+	padding:10px;
+	background-color:white;
+	margin:0px;
+	margin-bottom:20px;
+}
+.section_2
+{
+	padding:20px;
+	padding-top: 40px;
+	background-color:none;
+	margin:0px;
+	text-decoration:none;
+	margin-bottom:40px;
+}
+.section_3
+{
+	padding:5px;
+	background-color:white;
+	margin:0px;
+	margin-bottom:10px;
+	padding-bottom:20px;
+	padding-top:30px;
+	
+	
+	text-decoration:none;
+}
+.footer
+{
+	padding:0px;
+	margin:0px;
+	background-color:#4b5320;
+	text-align:right;
+}
+.button
+{
+	padding:5px;
+}
+button #top
+{
+	color:red;
+	box-sizing: 20px
+	border:none;
+}
